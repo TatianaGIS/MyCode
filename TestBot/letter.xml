@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+    <Row>
+        <Cell>
+            <Data>Ссылка:</Data>
+        </Cell>
+        <Cell>
+            <Data>Номер пожара:</Data>
+        </Cell>
+        <Cell>
+            <Data>Дата обнаружения:</Data>
+        </Cell>
+        <Cell>
+            <Data>Район:</Data>
+        </Cell>
+        <Cell>
+            <Data>Расстояние до ближайшего н.п.:</Data>
+        </Cell>
+        <Cell>
+            <Data>Лесничество:</Data>
+        </Cell>
+        <Cell>
+            <Data>Участковое лесничество:</Data>
+        </Cell>
+        <Cell>
+            <Data>Квартал:</Data>
+        </Cell>
+        <Cell>
+            <Data>Площадь, га:</Data>
+        </Cell>
+    </Row>
+    <Row>
+        <Cell>
+            <Data>Перейти на карту</Data>
+        </Cell>
+        <Cell>
+            <Data>2</Data>
+        </Cell>
+        <Cell>
+            <Data>2024-06-14T18:00:00.000</Data>
+        </Cell>
+        <Cell>
+            <Data>МО МР "Троицко-Печорский"</Data>
+        </Cell>
+        <Cell>
+            <Data>2,15 км. (Курья)</Data>
+        </Cell>
+        <Cell>
+            <Data>Комсомольское</Data>
+        </Cell>
+        <Cell>
+            <Data>Курьинское</Data>
+        </Cell>
+        <Cell>
+            <Data>66</Data>
+        </Cell>
+        <Cell>
+            <Data>0.40</Data>
+        </Cell>
+    </Row>
+</message>
