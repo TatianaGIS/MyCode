@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message xmlns:xlink="http://www.w3.org/1999/xlink">
+    <Fire>
+        <Link>https://gis.rkomi.ru/</Link>
+        <Number>2</Number>
+        <Date>14.06.2024 18:00</Date>
+        <Region>МО МР "Троицко-Печорский"</Region>
+        <Distance>3,15 км (Курья)</Distance>
+        <Forestry>Комсомольское</Forestry>
+        <Dforestry>Курьинское</Dforestry>
+        <Kv>66</Kv>
+        <Area>0.40</Area>
+    </Fire>
+</message>
